@@ -1,0 +1,3 @@
+* Setting live gates
+** Select the 2D spectrum you want to make the gate on
+   [[file:TestImage.png][Test Image]]
