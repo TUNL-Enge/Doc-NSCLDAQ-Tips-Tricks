@@ -1,1 +1,1 @@
-Refer to NSCL-Tips-and-Tricks.org file
+NSCL-Tips-and-Tricks.md
