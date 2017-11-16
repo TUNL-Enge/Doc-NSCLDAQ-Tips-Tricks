@@ -19,17 +19,18 @@
 ** Click on the region for the gate, click "OK"   
    #+html: <p align="center"><img src="gates-1.png" /></p>
 ** Open the "treegui" window
+   #+html: <p align="center"><img src="gates-2.png" /></p>
 ** Click on the "Gates" tab and click "Update Gate List"
 ** Double-click on newly created gate
-   #+html: <p align="center"><img src="gates-2.png" /></p>
 ** Spectra -> Create
 *** A new window will appear. Write a name for the new spectrum
    #+html: <p align="center"><img src="gates-3.png" /></p>
-*** Click select spectrum type, select "1-d"
+*** Click "Spectrum Type", select "1-d"
 *** Click OK, a new window will appear
    #+html: <p align="center"><img src="gates-4.png" /></p>
 *** Double-click on "Gates"
 *** Double-click on new contour
 *** Double-click "Parameters"
 *** Double-click on the spectrum you want to gate on
+*** Click OK
 ** A new spectrum is now available

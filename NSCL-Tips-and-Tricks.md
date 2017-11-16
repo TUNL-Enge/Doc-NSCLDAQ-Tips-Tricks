@@ -2,13 +2,13 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org0b20f5e">1. Setting live gates</a></li>
+<li><a href="#org56555fa">1. Setting live gates</a></li>
 </ul>
 </div>
 </div>
 
 
-<a id="org0b20f5e"></a>
+<a id="org56555fa"></a>
 
 # Setting live gates
 
@@ -24,11 +24,11 @@
 
 5.  Open the "treegui" window
 
+    <p align="center"><img src="gates-2.png" /></p>
+
 6.  Click on the "Gates" tab and click "Update Gate List"
 
 7.  Double-click on newly created gate
-
-    <p align="center"><img src="gates-2.png" /></p>
 
 8.  Spectra -> Create
 
@@ -36,7 +36,7 @@
     
         <p align="center"><img src="gates-3.png" /></p>
     
-    2.  Click select spectrum type, select "1-d"
+    2.  Click "Spectrum Type", select "1-d"
     
     3.  Click OK, a new window will appear
     
@@ -49,6 +49,8 @@
     6.  Double-click "Parameters"
     
     7.  Double-click on the spectrum you want to gate on
+    
+    8.  Click OK
 
 9.  A new spectrum is now available
 
