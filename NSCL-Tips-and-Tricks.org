@@ -1,3 +1,17 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:1 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: NSCL-Tips-and-Tricks
+#+DATE: <2017-11-16 Thu>
+#+AUTHOR: Richard Longland
+#+EMAIL: longland@X1Carbon
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.5.1 (Org mode 9.0.5)
+
 * Setting live gates
 ** Select the 2D spectrum you want to make the gate on
    [[file:TestImage.png][Test Image]]
