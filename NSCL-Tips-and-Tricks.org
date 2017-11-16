@@ -14,4 +14,11 @@
 
 * Setting live gates
 ** Select the 2D spectrum you want to make the gate on
+** Graph Objects -> Add -> Contour
+** Enter a name for the contour
+** Click on the region for the gate, click "OK"   
    #+html: <p align="center"><img src="gates-1.png" /></p>
+** 
+   #+html: <p align="center"><img src="gates-2.png" /></p>
+   #+html: <p align="center"><img src="gates-3.png" /></p>
+   #+html: <p align="center"><img src="gates-4.png" /></p>
