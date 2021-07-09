@@ -22,7 +22,7 @@
    #+html: <p align="center"><img src="gates-2.png" /></p>
 ** Click on the "Gates" tab and click "Update Gate List"
 ** Double-click on newly created gate
-** Spectra -> Create
+** Spectra (top menu) -> Create
 *** A new window will appear. Write a name for the new spectrum
    #+html: <p align="center"><img src="gates-3.png" /></p>
 *** Click "Spectrum Type", select "1-d"
